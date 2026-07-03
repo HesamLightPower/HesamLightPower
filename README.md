@@ -4,7 +4,7 @@
 
 ### Junior Developer • Discord Bot Developer • FiveM Script Store Manager
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=5865F2&center=true&vCenter=true&width=950&lines=%F0%9F%91%8B+Hey+I'm+Hesam;%F0%9F%A4%96+Discord+Bot+Developer;%F0%9F%92%BC+Manager+at+Jericho+Script;%F0%9F%9A%80+Building+Modern+Projects" />
+<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=5865F2&center=true&vCenter=true&width=950&lines=%F0%9F%91%8B+Hey+I'm+Hesam;%F0%9F%A4%96+Discord+Bot+Developer;%F0%9F%92%BC+Manager+at+Jericho+Script;%F0%9F%9A%80+Building+Modern+Projects](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=5865F2&center=true&vCenter=true&width=900&lines=Discord+Bot+Developer;Node.js+%7C+Discord.js+Developer;FiveM+Developer;Manager+at+Jericho+Script;Always+Building+Something+Awesome+%F0%9F%9A%80)" />
 
 </div>
 
