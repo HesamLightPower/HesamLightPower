@@ -23,12 +23,9 @@ Alongside development, I'm also the **Manager of Jericho Script**, a marketplace
 ## 💻 What I Do
 
 * 🤖 Discord Bot Development
-* ⚡ Backend Development
 * 🔧 Discord Automation Systems
-* 🎮 FiveM Development
+* 🎮 FiveM Student Developer
 * 🛒 FiveM Script Management
-* 🎨 UI/UX Design
-* 📦 API Integration
 
 ---
 
@@ -37,17 +34,12 @@ Alongside development, I'm also the **Manager of Jericho Script**, a marketplace
 ```text
 Languages
 ├── JavaScript
-├── TypeScript
 ├── Lua
 ├── HTML
 └── CSS
 
 Frameworks & Tools
 ├── Discord.js
-├── Node.js
-├── Express
-├── Git
-├── GitHub
 └── VS Code
 ```
 
@@ -57,8 +49,7 @@ Frameworks & Tools
 
 * 🚀 Build better Discord Bots
 * 📚 Learn more Backend technologies
-* 🎯 Improve UI/UX skills
-* 💼 Grow the Jericho Script community
+* 💼 Grow the Jericho
 * 🔥 Create high-quality FiveM resources
 
 ---
