@@ -1,16 +1,121 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HesamLightPower/HesamLightPower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Hesam
 
-Here are some ideas to get you started:
+### Junior Developer • Discord Bot Developer • FiveM Script Store Manager
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Discord+Bot+Developer;Junior+Developer;FiveM+Community+Manager;Always+Learning+New+Things" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+Hi! I'm **Hesam**, a **17-year-old Junior Developer** with a passion for building modern applications and automation tools.
+
+I mainly focus on creating **Discord Bots** with clean architecture, performance, and user-friendly experiences.
+
+Alongside development, I'm also the **Manager of Jericho Script**, a marketplace dedicated to selling premium **FiveM Scripts**.
+
+---
+
+## 💻 What I Do
+
+* 🤖 Discord Bot Development
+* ⚡ Backend Development
+* 🔧 Discord Automation Systems
+* 🎮 FiveM Development
+* 🛒 FiveM Script Management
+* 🎨 UI/UX Design
+* 📦 API Integration
+
+---
+
+## 🛠️ Technologies
+
+```text
+Languages
+├── JavaScript
+├── TypeScript
+├── Lua
+├── HTML
+└── CSS
+
+Frameworks & Tools
+├── Discord.js
+├── Node.js
+├── Express
+├── Git
+├── GitHub
+└── VS Code
+```
+
+---
+
+## 📈 Current Goals
+
+* 🚀 Build better Discord Bots
+* 📚 Learn more Backend technologies
+* 🎯 Improve UI/UX skills
+* 💼 Grow the Jericho Script community
+* 🔥 Create high-quality FiveM resources
+
+---
+
+## 🌟 Featured Project
+
+### Jericho Script
+
+Manager of **Jericho Script**, a marketplace focused on premium FiveM resources and custom development.
+
+Services include:
+
+* Premium FiveM Scripts
+* Custom Discord Bots
+* Server Development
+* UI Design
+* Ongoing Support
+
+---
+
+## 📊 GitHub Stats
+
+> *(Replace `YOUR_USERNAME` with your GitHub username.)*
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+```javascript
+const hesam = {
+    age: 17,
+    role: "Junior Developer",
+    specialty: "Discord Bot Development",
+    manager: "Jericho Script",
+    learning: ["Backend", "System Design", "FiveM"],
+    motto: "Keep Learning. Keep Building."
+};
+```
+
+---
+
+## 🤝 Let's Connect
+
+If you'd like to collaborate, build something awesome, or talk about Discord Bots and FiveM development, feel free to reach out!
+
+⭐ Thanks for visiting my profile!
