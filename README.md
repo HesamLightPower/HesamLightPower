@@ -33,10 +33,8 @@ Alongside development, I'm also the **Manager of Jericho Script**, a marketplace
 
 ```text
 Languages
+├── Python
 ├── JavaScript
-├── Lua
-├── HTML
-└── CSS
 
 Frameworks & Tools
 ├── Discord.js
