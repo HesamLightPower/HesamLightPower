@@ -68,19 +68,6 @@ Services include:
 
 ---
 
-## 📊 GitHub Stats
-
-> *HesamLightPower*
-
-<p align="center">
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-</p>
-
----
-
 ## ⚡ Fun Fact
 
 ```javascript
