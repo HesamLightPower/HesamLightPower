@@ -11,10 +11,10 @@
 ```yaml
 name: Hesam
 age: 17
-role: Junior Developer
+role: Discord Junior Developer
 focus: Discord Bot Development & Automation (Python & Discord.js)
 currently_managing: Jericho Script (FiveM Script Store)
-currently_learning: Backend Development, Advanced Discord.py/Discord.js
+currently_learning: Fivem Development, Advanced Discord.py/Discord.js
 ```
 
 I'm a **17-year-old Junior Developer** who loves building clean, reliable, and user-friendly **Discord Bots**.
