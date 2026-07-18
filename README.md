@@ -32,10 +32,10 @@ Alongside development, I run **Jericho Script**, a marketplace for premium **Fiv
 
 | Category | Stack |
 |---|---|
-| **Language** | Python |
-| **Bot Framework** | Discord.js |
+| **Language** | Python & Node.js |
+| **Bot Framework** | Discord.py & Discord.js |
 | **Tools** | VS Code · Git & GitHub |
-| **Platform Focus** | FiveM Development |
+| **Platform Focus** | FiveM & Discord |
 
 <br>
 
@@ -58,11 +58,10 @@ Alongside development, I run **Jericho Script**, a marketplace for premium **Fiv
 
 | Service | Description |
 |---|---|
-| 🧩 Premium FiveM Scripts | Ready-to-use, high-quality resources |
-| 🤖 Custom Discord Bots | Tailored bots for servers & communities |
-| 🖥️ Server Development | Full setup & configuration support |
-| 🎨 UI Design | Clean, modern interfaces |
-| 🛠️ Ongoing Support | Continued maintenance & updates |
+| 🧩 Premium FiveM Scripts |
+| 🤖 Custom Discord Bots | 
+| 🖥️ Fivem Student Developer | 
+| 🛠️ Ongoing Support |
 
 </div>
 
