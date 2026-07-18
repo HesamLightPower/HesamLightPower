@@ -4,14 +4,6 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=5865F2&style=flat-square&label=Profile+Views)
-[![Discord](https://img.shields.io/badge/Discord-YourTag-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
-[![Status](https://img.shields.io/badge/Status-Building%20Jericho%20Script-5865F2?style=flat-square)](#)
-
-</div>
-
-<br>
-
 ## 🚀 About Me
 
 ```yaml
