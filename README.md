@@ -4,8 +4,8 @@
 
 <br>
 
-![Profile Views](HesamLightPower)
-[![Discord](https://img.shields.io/badge/Discord-YourTag-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/sCg6rxqRav)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=5865F2&style=flat-square&label=Profile+Views)
+[![Discord](https://img.shields.io/badge/Discord-YourTag-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 [![Status](https://img.shields.io/badge/Status-Building%20Jericho%20Script-5865F2?style=flat-square)](#)
 
 </div>
@@ -18,7 +18,7 @@
 name: Hesam
 age: 17
 role: Junior Developer
-focus: Discord Bot Development & Automation
+focus: Discord Bot Development & Automation (Python & Discord.js)
 currently_managing: Jericho Script (FiveM Script Store)
 currently_learning: Backend Development, Advanced Discord.py/Discord.js
 ```
@@ -32,14 +32,14 @@ Alongside development, I run **Jericho Script**, a marketplace for premium **Fiv
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=py,js,nodejs,discordjs,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,discordjs,vscode,git,github&theme=dark" />
 
 </div>
 
 | Category | Stack |
 |---|---|
-| **Languages** | Python · JavaScript |
-| **Bot Frameworks** | Discord.py · Discord.js |
+| **Language** | Python |
+| **Bot Framework** | Discord.js |
 | **Tools** | VS Code · Git & GitHub |
 | **Platform Focus** | FiveM Development |
 
