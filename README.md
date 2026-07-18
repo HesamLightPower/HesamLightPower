@@ -67,21 +67,6 @@ Alongside development, I run **Jericho Script**, a marketplace for premium **Fiv
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5865F2&icon_color=5865F2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5865F2" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=5865F2&fire=5865F2" />
-
-</div>
-
-> 💡 Replace `YOUR_USERNAME` above with your actual GitHub username so the stats cards work correctly.
-
-<br>
-
 ## 🎯 Current Goals
 
 - 🚀 Build more advanced, production-ready Discord bots
@@ -96,7 +81,7 @@ Alongside development, I run **Jericho Script**, a marketplace for premium **Fiv
 ```javascript
 const hesam = {
   age: 17,
-  role: "Junior Developer",
+  role: "Discord Junior Developer & Fivem Student Developer",
   specialty: "Discord Bot Development",
   manager: "Jericho Script",
   motto: "Keep Learning. Keep Building.",
@@ -109,8 +94,7 @@ const hesam = {
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Add%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-Add%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](.hesm_)
 
 Open to collaborations on Discord Bots and FiveM projects — feel free to reach out!
 
