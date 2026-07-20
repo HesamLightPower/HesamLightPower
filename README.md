@@ -94,7 +94,7 @@ const hesam = {
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Add%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](.hesm_)
+[![Discord](https://img.shields.io/badge/Discord-Add%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HrcB4HX25u)
 
 Open to collaborations on Discord Bots and FiveM projects — feel free to reach out!
 
